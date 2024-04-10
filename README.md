@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @melvinlim
-- 👀 I’m interested in computers
-- 🌱 I’m always learning anything related to computers
-- 💞️ I’m looking to collaborate on anything
+Hi.
+I like computers.
